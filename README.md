@@ -10,7 +10,7 @@ Stakeholders and Product Managers often face a "Knowledge Black Box" with legacy
 
 ## The Solution
 **Logic-Lens** is a local Retrieval-Augmented Generation (RAG) tool designed to extract business logic from Python repositories.
-*   **Ingests** local source code (e.g., Django-Oscar) into a vector database.
+*   **Ingests** local source code (e.g., [Django-Oscar](https://github.com/django-oscar/django-oscar)) into a vector database.
 *   **Extracts** logic using a system prompt engineered for "Product/Business" translation.
 *   **Cites** specific filenames as authoritative sources to ensure trust.
 
