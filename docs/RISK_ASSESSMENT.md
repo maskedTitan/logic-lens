@@ -1,9 +1,3 @@
----
-
-### 4. Risk Assessment (The RAID Log) (`docs/RISK_ASSESSMENT.md`)
-*Why this matters:* This shows "Mature Product Thinking." You aren't just blindly trusting AI; you have identified where it might break.
-
-```markdown
 # 🛡 Risk Assessment (RAID Log)
 
 | ID | Risk Description | Probability | Impact | Mitigation Strategy |
