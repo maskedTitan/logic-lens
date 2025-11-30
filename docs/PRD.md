@@ -3,10 +3,6 @@
 | Metadata | Details |
 | :--- | :--- |
 | **Feature** | Logic-Lens Core CLI |
-| **Status** | 🟢 Released (MVP) |
-| **Product Owner** | [Your Name] |
-| **Tech Lead** | [Your Name] |
-| **Target Date** | Nov 30, 2025 |
 
 ## 1. Problem Statement
 **The "Black Box" Effect:**
